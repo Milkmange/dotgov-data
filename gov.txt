@@ -1,6 +1,6 @@
 ;;
 ;; Domain:     gov.
-;; Exported:   2026-09-05 11:14:39
+;; Exported:   2026-09-06 11:36:56
 ;;
 ;; This file is intended for use for informational and archival
 ;; purposes ONLY and MUST be edited before use on a production
@@ -24,7 +24,7 @@
 ;;
 ;; Use at your own risk.
 ;; SOA Record
-gov.	3600	IN	SOA	a.ns.gov. dns.cloudflare.com. 1788606482 3600 900 604800 300
+gov.	3600	IN	SOA	a.ns.gov. dns.cloudflare.com. 1788694322 3600 900 604800 300
 
 ;; A Records
 a1.domainops.gov.	3600	IN	A	162.159.8.76
@@ -299,6 +299,7 @@ ns1.emsaok.gov.	3600	IN	A	162.159.2.241
 ns1.eseclab.gov.	3600	IN	A	63.234.40.73
 ns1.eyenote.gov.	3600	IN	A	162.159.0.233
 ns1.fairportny.gov.	3600	IN	A	65.37.125.226
+ns1.fayettecorecorderpa.gov.	3600	IN	A	209.182.202.59
 ns1.fbijobs.gov.	3600	IN	A	162.159.2.164
 ns1.fbi.seized.gov.	3600	IN	A	198.41.223.101
 ns1.fdsys.gov.	3600	IN	A	162.159.4.127
@@ -557,6 +558,7 @@ ns2.eldoradosheriff.gov.	3600	IN	A	198.41.223.250
 ns2.eseclab.gov.	3600	IN	A	63.234.40.76
 ns2.eyenote.gov.	3600	IN	A	162.159.1.245
 ns2.fairportny.gov.	3600	IN	A	65.37.125.194
+ns2.fayettecorecorderpa.gov.	3600	IN	A	209.182.202.59
 ns2.fbijobs.gov.	3600	IN	A	162.159.3.132
 ns2.fbi.seized.gov.	3600	IN	A	173.245.58.8
 ns2.fdsys.gov.	3600	IN	A	162.159.5.58
@@ -16889,8 +16891,8 @@ fauquiercounty.gov.	10800	IN	NS	ns8.fauquiercounty.gov.
 fauquiercounty.gov.	10800	IN	NS	ns7.fauquiercounty.gov.
 fayaltownshipmn.gov.	10800	IN	NS	ns1.techbytescomp.com.
 fayaltownshipmn.gov.	10800	IN	NS	ns2.techbytescomp.com.
-fayettecorecorderpa.gov.	10800	IN	NS	ns1.inmotionhosting.com.
-fayettecorecorderpa.gov.	10800	IN	NS	ns2.inmotionhosting.com.
+fayettecorecorderpa.gov.	10800	IN	NS	ns1.fayettecorecorderpa.gov.
+fayettecorecorderpa.gov.	10800	IN	NS	ns2.fayettecorecorderpa.gov.
 fayettecountyboipa.gov.	10800	IN	NS	rohin.ns.cloudflare.com.
 fayettecountyboipa.gov.	10800	IN	NS	ariadne.ns.cloudflare.com.
 fayettecountyga.gov.	10800	IN	NS	ns2-05.azure-dns.net.
